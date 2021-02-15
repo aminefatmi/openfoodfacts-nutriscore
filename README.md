@@ -6,7 +6,7 @@ Dataset: https://world.openfoodfacts.org/
 Variables: https://world.openfoodfacts.org/data/data-fields.txt  
 
 ## Notebooks:  
-PSante_01_notebooknettoyage.ipynb  --> Data cleaning
+PSante_01_notebooknettoyage.ipynb  --> Data cleaning  
 PSante_02_notebookexploration.ipynb  -- Exploratory Data Analysis  
 
 ## Slides:  
